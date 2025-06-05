@@ -2,5 +2,5 @@ print("LIVRO:")
 print("Uma noite na 77")
 print("DESCRIÇÃO:")
 print("Este livro relata a experiencia de um professor em uma noite com a turma 77!")
-print("uma aventura na selva")
-print("cheios de girafas")
+
+
